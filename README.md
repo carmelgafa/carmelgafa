@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-📫 I try write some notes on my side projects [here](carmelgafa.com)
+📫 I try write some notes on my side projects [here](http://carmelgafa.com)
 
 <!--
 **carmelgafa/carmelgafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
