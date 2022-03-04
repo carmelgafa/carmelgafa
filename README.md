@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my Github profile!
 
-📫 I try to write some notes on my projects [here](http://carmelgafa.com)
+📫 I write some notes on my projects [here](http://carmelgafa.com)
 
 
 [![Carmelgafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelgafa&count_private=true&show_icons=true&theme=dracula)](https://github.com/carmelgafa/github-readme-stats)
