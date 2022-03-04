@@ -4,6 +4,10 @@ Welcome to my Github profile!
 
 📫 I try to write some notes on my side projects [here](http://carmelgafa.com)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelgafa)](https://github.com/carmelgafa/github-readme-stats)
+
+
 <!--
 **carmelgafa/carmelgafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
