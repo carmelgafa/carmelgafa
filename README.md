@@ -5,7 +5,7 @@ Welcome to my Github profile!
 📫 I try to write some notes on my side projects [here](http://carmelgafa.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelgafa)](https://github.com/carmelgafa/github-readme-stats)
+[![Carmelgafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelgafa)](https://github.com/carmelgafa/github-readme-stats)
 
 
 <!--
