@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-📫 I try to write some notes on my side projects [here](http://carmelgafa.com)
+📫 I try to write some notes on my projects [here](http://carmelgafa.com)
 
 
 [![Carmelgafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelgafa)](https://github.com/carmelgafa/github-readme-stats)
